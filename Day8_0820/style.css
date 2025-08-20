@@ -1,12 +1,11 @@
 /* style.css */
 
-/* ---- 팔레트 (참고용 CSS 변수) ---- */
 :root {
     --blue-light: #8ecae6;
-    --blue: #219ebc; /* Primary */
-    --navy: #023047; /* Deep background / headings */
-    --yellow: #ffb703; /* Accent 1 */
-    --orange: #fb8500; /* Accent 2 */
+    --blue: #219ebc;
+    --navy: #023047;
+    --yellow: #ffb703;
+    --orange: #fb8500;
     --text: #212529;
     --bg: #f8f9fa;
 }
